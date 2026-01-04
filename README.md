@@ -12,9 +12,9 @@ This project is maintained on GitHub as a **reference implementation** showcasin
 ## Project Goals
 The primary goals of this project were to:
 - Design and implement a functional abstraction that hides general implementation details
-- Implement multiple variations of a general data structure (i.e., polymorphism)
+- Implement multiple variations of a data structure (i.e., polymorphism)
 - Verify solutions through Java unit testing (i.e., JUnit)
-- Explore key data structure concepts (e.g., operations)
+- Explore key data structure concepts (e.g., state, operations)
 
 ## Key Features
  - An interface that defines a set of methods for the bounded scroll (e.g., insert, delete, advance, etc.)
